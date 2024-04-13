@@ -2,7 +2,7 @@ package za.ac.tut.entity;
 import java.util.List;
 /**
 *
-* @author MemaniV
+* 
 */
 public class Student {
  private Integer id;
