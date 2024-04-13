@@ -1,7 +1,7 @@
 package za.ac.tut.entity;
 /**
 *
-* @author MemaniV
+*
 */
 public class Module {
  private Integer id;
