@@ -5,7 +5,7 @@ import java.util.List;
 import za.ac.tut.entity.Student;
 /**
 *
-* @author MemaniV
+*
 */
 public interface StudentManagerInterface<T> {
  public boolean add(Student t, String addStudentSQL, String addModuleSQL) throws SQLException;
